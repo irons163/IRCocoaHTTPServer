@@ -62,5 +62,13 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+    <key>NSBonjourServices</key>
+    <array>
+        <string>_http._tcp</string>
+    </array>
+    <key>NSLocalNetworkUsageDescription</key>
+    <string>Turn on local network to get bonjour data.</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>Turn on location services to get the network information.</string>
 </dict>
 </plist>
