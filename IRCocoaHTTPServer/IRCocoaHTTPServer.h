@@ -15,4 +15,7 @@ FOUNDATION_EXPORT const unsigned char IRCocoaHTTPServerVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <IRCocoaHTTPServer/PublicHeader.h>
 
-
+#import <IRCocoaHTTPServer/HTTPServer.h>
+#import <IRCocoaHTTPServer/HTTPConnection.h>
+#import <IRCocoaHTTPServer/HTTPMessage.h>
+#import <IRCocoaHTTPServer/HTTPResponse.h>
